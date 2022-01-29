@@ -15,10 +15,10 @@ Inferencing refers to how expert systems implement human reasoning. It is perfor
 Forward chaining is a mechanism in which multiple inferences are searched from the problem to the solution, that is, it begins with a set of rules and proceeds through a series of procedures to reach the final choice. It follows the IF…..THEN format.
 
 ### Properties of Forward chaining
-Follows the top-down approach
-Answers the question ‘what can happen next?’
-It is a data-driven approach
-It goes from facts to result
+- Follows the top-down approach
+- Answers the question ‘what can happen next?’
+- It is a data-driven approach
+- It goes from facts to result
 
 ![Forward chaining](FORWARD-CHAINING.jpg.jpg)
 
@@ -27,10 +27,10 @@ It goes from facts to result
 Backward chaining is a mechanism in which multiple inferences are searched from a hypothesis back to the facts that support the hypothesis. In this case, the inference system is aware of the final decision and attempts to determine the conditions that would have resulted in that decision. It is usually used to determine the source of an issue.
 
 ## Properties of Backward chaining
-Follows the bottom-up approach
-Answers the question ‘why does this happen?’
-It is a goal-driven approach
-It goes from result to facts
+- Follows the bottom-up approach
+- Answers the question ‘why does this happen?’
+- It is a goal-driven approach
+- It goes from result to facts
 
 ![Backward chaining](Backward-Chaining-22.jpg.jpg)
 
